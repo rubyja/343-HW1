@@ -1,28 +1,28 @@
 # 343-HW1
 Git Commands
 
-git init
+git init ->
 Creates a local repository Default local repo name is Master
 
-git status
+git status ->
 Shows tracked and untracked files
 
 Shows staged and unstaged files
 
-git add
+git add ->
 Stages file to tracked changes
 
-git commit -m "description"
+git commit -m "description" ->
 Commit staged files -m allows commit notes as a txt description
 
-git log
+git log ->
 Shows commit history
 
-git pull
+git pull ->
 Will fetch and replay the changes from the remote master branch
 
-git push
+git push ->
 Push commits made on your local branch to a remote repository
 
-git diff --Head
+git diff --Head ->
 This form is to view the changes you have in your working tree relative to the named
